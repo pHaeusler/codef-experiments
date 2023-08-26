@@ -1,0 +1,6 @@
+pytorch_lightning
+numpy
+opencv-python
+wandb
+torchvision
+git+https://github.com/NVlabs/tiny-cuda-nn.git#subdirectory=bindings/torch
